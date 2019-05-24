@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'II18N_Example' do
+  pod 'II18N', :path => '../'
+
+  target 'II18N_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
