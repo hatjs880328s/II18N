@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'II18N'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Inspur Inter.Progress APP I18N'
 
 # This description is used to generate tags and improve search results.
@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   Inspur Inter.Progress APP I18N
   国际化处理库 & Swift版本
+  这个是最新版本的国际化库
                        DESC
 
   s.homepage         = 'https://github.com/hatjs880328s/II18N'
